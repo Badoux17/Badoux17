@@ -1,44 +1,44 @@
 # 👋 Salut, moi c'est Badoux17!
 
 ### 🚀 Passionné par l'architecture logiciel
-*"J'adore creuser dans le fonctionnement interne de Linux et optimiser des serveurs C."
+*"Fan de l'architecture depuis mes 5 ans..."
 
 ---
 
 ## 👤 À propos de moi
 - 🎓 Étudiant en **L3 Informatique** à l'Université de Bourgogne.
-- 🛠️ Actuellement en train de travailler sur : **[Ton projet actuel]**.
-- 📫 Comment me joindre : **[Ton Email/LinkedIn]**.
-- ⚡ Fun fact : **[Une anecdote sur toi]**.
+- 🛠️ Actuellement en train de travailler sur : **[Agora](https://github.com/Badoux17/Agora)**.
+- 📫 Comment me joindre : **leo.piton.17@gmail.com**.
 
 ---
 
 ## 💻 Langages que j'utilise
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![OCaml](https://img.shields.io/badge/ocaml-%23EC6813.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ---
 
 ## 🛠️ Outils & Technologies
 - **Système** : Linux (Kernel, Epoll, Pthreads).
-- **Analyse** : Valgrind, GDB, Scripts Awk.
 - **Gestion de version** : Git & GitHub.
-- **CI/CD & Autres** : [Tes outils, ex: Docker, Makefile].
 
 ---
 
 ## 📂 Projets Phares
 
 ### 🛰️ [Pegasus Game Engine (Pega_S)](https://github.com/HobbitTheCat/pega_s6)
-
-### 🛠️ [Nom d'un autre projet]
-- [Description rapide du projet].
-- [Techno utilisée].
+### 🛰️ [Pegasus Game Engine (Pega_S)](https://github.com/HobbitTheCat/pega_s6)
+### 🛰️ [Pegasus Game Engine (Pega_S)](https://github.com/HobbitTheCat/pega_s6)
+### 🛰️ [Pegasus Game Engine (Pega_S)](https://github.com/HobbitTheCat/pega_s6)
 
 ---
 
 ## 💡 Futures Idées & Projets
-- [ ] [cite_start]**Session Pooling** : Optimiser la scalabilité en regroupant plusieurs sessions par thread[cite: 891, 990].
-- [ ] [cite_start]**IA Adaptative** : Développer des bots basés sur l'apprentissage automatique[cite: 993].
 - [ ] [Ton idée de projet 3].
 - [ ] [Ton idée de projet 4].
