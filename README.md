@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Badoux17!
 
 ### 🚀 Passionné par l'architecture logiciel
-"Fan de l'architecture depuis mes 5 ans..."
+"Fan de l'architecture logiciel depuis mes 5 ans..."
 
 ---
 
