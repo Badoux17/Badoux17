@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Badoux17!
 
 ### 🚀 Passionné par l'architecture logiciel
-*"Fan de l'architecture depuis mes 5 ans..."
+"Fan de l'architecture depuis mes 5 ans..."
 
 ---
 
@@ -33,12 +33,9 @@
 ## 📂 Projets Phares
 
 ### 🛰️ [Pegasus Game Engine (Pega_S)](https://github.com/HobbitTheCat/pega_s6)
-### 🛰️ [Pegasus Game Engine (Pega_S)](https://github.com/HobbitTheCat/pega_s6)
-### 🛰️ [Pegasus Game Engine (Pega_S)](https://github.com/HobbitTheCat/pega_s6)
-### 🛰️ [Pegasus Game Engine (Pega_S)](https://github.com/HobbitTheCat/pega_s6)
+### 🛰️ [Cake Factory](https://github.com/HobbitTheCat/Cake_factory)
+### 🛰️ [Base de données orienté object](https://github.com/KelianTDM/base-de-donnees-oriente-objet)
+### 🛰️ [Project M](https://github.com/HobbitTheCat/ProjectM)
 
 ---
 
-## 💡 Futures Idées & Projets
-- [ ] [Ton idée de projet 3].
-- [ ] [Ton idée de projet 4].
