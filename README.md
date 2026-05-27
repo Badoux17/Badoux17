@@ -7,7 +7,7 @@
 
 ## 👤 À propos de moi
 - 🎓 Étudiant en **L3 Informatique** à l'Université de Bourgogne.
-- 🛠️ Actuellement en train de travailler sur : **[Agora](https://github.com/Badoux17/Agora)**.
+- 🛠️ Actuellement en train de travailler sur : **[Strigi]([https://github.com/Leupabo/Strigi])**.
 - 📫 Comment me joindre : **leo.piton.17@gmail.com**.
 
 ---
